@@ -15,7 +15,7 @@ function expose() {
 		return this;
 	};
 
-	window.L = L;
+	window.Lnew = L;
 }
 
 // define Leaflet for Node module pattern loaders, including Browserify
